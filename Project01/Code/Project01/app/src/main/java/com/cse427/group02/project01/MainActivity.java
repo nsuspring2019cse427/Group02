@@ -1,5 +1,9 @@
 package com.cse427.group02.project01;
 
+/**
+ * Created by Arabi and Mantasarul on 24-Feb-19.
+ */
+
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
